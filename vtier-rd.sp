@@ -14,7 +14,7 @@ public Plugin myinfo =
 	author			= "Reeed",
 	description = "Get a map's vnl tiers",
 	version			= "0.1",
-	url					= "https://docs.google.com/spreadsheets/d/1avMaSsZ5h7u21LpRz04kk6cn-PPHucA95T745Jj21MM/edit#gid=0"
+	url					= "https://vnl.kz"
 };
 
 public void OnPluginStart()
