@@ -12,7 +12,7 @@ public Plugin myinfo =
 {
 	name				= "VNL Tier",
 	author			= "Reeed",
-	description = "Get a map's vnl tiers",
+	description = "Get vnl tiers of gokz maps",
 	version			= "0.1",
 	url					= "https://vnl.kz"
 };
